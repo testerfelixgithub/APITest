@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Apr 26 18:05:18 CST 2018
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=APIToolExe.jar
+manifest.mergeall=true
+manifest.mainclass=Gome.AutoTest.main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
